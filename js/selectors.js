@@ -5,6 +5,6 @@ function paragraphSelector() {
   return paragraph;
 }
 
-function lastImageSelector {
+function lastImageSelector() {
   
 }
