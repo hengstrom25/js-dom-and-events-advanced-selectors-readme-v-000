@@ -4,3 +4,7 @@ function paragraphSelector() {
   let paragraph = $('p');
   return paragraph;
 }
+
+function lastImageSelector {
+  
+}
